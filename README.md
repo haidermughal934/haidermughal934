@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Haider Ali Mughal
 
-## 🌟 About Me  
-- 🎓 Undergraduate **Software Engineering Student** (4 semesters completed)  
-- 💻 Passionate **Frontend Developer** specializing in **HTML, CSS, JavaScript, and React.js**  
-- 🎨 Skilled in modern CSS frameworks like **Bootstrap** and **TailwindCSS** for responsive, elegant UI design  
-- 🚀 Exploring **animations (Framer Motion, GSAP)**, APIs, and modern tools like **SupaBase** & **Firebase**  
-- 🌱 Currently improving my skills in **UI/UX, API integrations, and frontend performance optimization**  
+##  About Me  
+-  Undergraduate **Software Engineering Student** (4 semesters completed)  
+-  Passionate **Frontend Developer** specializing in **HTML, CSS, JavaScript, and React.js**  
+-  Skilled in modern CSS frameworks like **Bootstrap** and **TailwindCSS** for responsive, elegant UI design  
+-  Exploring **animations (Framer Motion, GSAP)**, APIs, and modern tools like **SupaBase** & **Firebase**  
+-  Currently improving my skills in **UI/UX, API integrations, and frontend performance optimization**  
 
 ---
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/haider-ali-mughal-6a495737b/">
